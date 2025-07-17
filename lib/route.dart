@@ -5,6 +5,7 @@ import 'package:get/get.dart';
 
 
 class AppRoute{
+
   static String splasScreen='/splashscreen';
 
 
